@@ -6,6 +6,11 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two commits into one; rebasing places one commit ahead of another.
+
 Q4: What are you looking forward to this semester?
 
 Answer: Completing the project to accurately predict an outcome.
+
