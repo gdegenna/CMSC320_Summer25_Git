@@ -5,3 +5,7 @@ Answer: To control our source code
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance
+
+Q4: What are you looking forward to this semester?
+
+Answer: Completing the project to accurately predict an outcome.
